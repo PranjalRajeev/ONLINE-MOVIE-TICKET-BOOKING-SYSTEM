@@ -1,0 +1,2 @@
+# ONLINE-MOVIE-TICKET-BOOKING-SYSTEM
+The main purpose of our online ticket booking system is to provide an alternate and convenient way for a customer to buy cinema tickets.   Every Organization whether big or small has a challenge to overcome and managing the information of Tickets, Movies, Seats, Cinema Halls, Show Timing.   It allows Theatre owner, Users, Admin and everyone to keep a record of their data and plan their objectives in a simple and hassle – free way 
